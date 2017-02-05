@@ -1,7 +1,7 @@
 use std::cmp::Ordering;
 use std::cmp::Ordering::{Less, Equal, Greater};
 
-use poset::{Meet, Join, Lattice};
+use lattice::{Meet, Join, Lattice};
 
 #[derive(PartialEq)]
 #[derive(Eq)]

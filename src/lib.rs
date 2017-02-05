@@ -1,2 +1,2 @@
-pub mod poset;
+pub mod lattice;
 pub mod interval;
