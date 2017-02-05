@@ -1,0 +1,6 @@
+[package]
+name = "poset"
+version = "0.1.0"
+authors = ["Johan Følsgaard <johan@foelsgaard.eu>"]
+
+[dependencies]
